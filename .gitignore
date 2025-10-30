@@ -27,6 +27,9 @@ wheels/
 .ipynb_checkpoints
 *.ipynb_checkpoints/
 
+# Keynote presentations
+*.key
+
 # Data directories (too large for GitHub)
 data/
 datasets/
