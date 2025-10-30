@@ -4,7 +4,6 @@
 [![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Enabled-orange.svg)](https://www.deeplearning.ai/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-Compatible-orange.svg)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
 
