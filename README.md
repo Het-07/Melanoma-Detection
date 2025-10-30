@@ -1,12 +1,10 @@
 # 🔬 Melanoma Detection: End-to-End Deep Learning Pipeline
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Enabled-orange.svg)](https://www.deeplearning.ai/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-Compatible-orange.svg)](https://www.tensorflow.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-
-> **CSCI 5501: Deep Learning Application - Final Project**  
-> **Authors:** Het Patel (B00988337) & Akshat Gulati (B00863868)  
-> **Institution:** Dalhousie University
 
 ---
 
